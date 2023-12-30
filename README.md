@@ -1,6 +1,7 @@
-# Project 1: Shell
+# Project: Shell
+Important Note: This is a project from CS3650 at Northeastern University. This repo will be checked by the server and other professors for plagiarism at the risk of Academic Integrity and in violation of OSCCR.
 
-This is the starter code for [Project 1](https://khoury-cs3650.github.io/p1.html).
+
 
 The [Makefile](Makefile) contains the following targets:
 
@@ -12,5 +13,3 @@ The [Makefile](Makefile) contains the following targets:
 - `make test` - compile and run all the tests
 - `make clean` - perform a minimal clean-up of the source tree
 
-
-The [examples](examples/) directory contains an example tokenizer. It might help.
